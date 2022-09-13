@@ -1,5 +1,5 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 date: 2022-09-13
 ---
 About me
